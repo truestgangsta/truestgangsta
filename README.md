@@ -1,4 +1,5 @@
-### Hi there 👋
+### True Gansta
+I programm stuff in my free time.
 
 <!--
 **truestgangsta/truestgangsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
